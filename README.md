@@ -1,0 +1,2 @@
+# miniproject
+first android project
